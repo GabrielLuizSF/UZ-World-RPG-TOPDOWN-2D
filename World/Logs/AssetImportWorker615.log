@@ -1,0 +1,190 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.5f1 (4ec9a5e799f5) revision 5163429'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'pt' Physical Memory: 3893 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker615
+-projectPath
+C:/Users/Home/Desktop/Gabriel/Github/RPG-Game/WorldUzRPG
+-logFile
+Logs/AssetImportWorker615.log
+-srvPort
+61679
+Successfully changed project path to: C:/Users/Home/Desktop/Gabriel/Github/RPG-Game/WorldUzRPG
+C:/Users/Home/Desktop/Gabriel/Github/RPG-Game/WorldUzRPG
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+      1376 1844 -
+      1376 b08 -
+     10364 37d8 -
+     14584 38c8 -
+     14576 3774 -
+      4588 37b8 -
+     14332 3bfc -
+     15324 3528 -
+     14708 34b4 -
+     14468 3b14 646
+     14928 3ac4 -
+     14444 3a04 -
+     14268 27b8 -
+     14100 3aac -
+     15152 3820 651
+     14220 348c -
+     14648 3b3c -
+     14884 308c -
+     14004 3390 -
+     14484 3ba0 -
+     13360 38dc 657
+     10024 3b1c -
+     14544 3474 -
+     14676 3ab4 -
+     11156 3a4c -
+     14352 1bac -
+     14716 3a0c -
+     14356 3198 -
+      5952 1e2c -
+     14036 39ec 666
+     14976 290c 667
+     12656 3ba4 -
+     11852 39b0 669
+     14092 2c2c 670
+     15008 358c -
+     14380 39a4 -
+     15232 273c -
+     15204 3824 674
+     14760 3910 -
+     11844 33c4 -
+      6988 3750 677
+     15276 2148 -
+     14440 3b10 -
+     15116 38b0 -
+     14908 31c4 -
+     10356 3a48 -
+     11240 3a68 683
+     12840 3944 684
+     14816 3490 -
+     15500 3c90 -
+     16024 3e9c -
+     13960 3248 -
+      5956 231c 689
+     16188 3f40 -
+     14392 3408 -
+     15720 3308 -
+     16176 3f2c -
+     14904 3fc8 -
+     16208 3d04 -
+     15564 3fe4 -
+     15432 30e0 -
+     16336 3018 -
+     12660 3834 699
+     15888 3f84 700
+     13336 32e8 -
+     13020 3128 -
+     15988 3224 703
+     13656 3fd4 -
+     15532 3fe0 -
+     13696 3fd8 706
+     16332 1994 707
+     15732 d8 -
+     11132 3b68 709
+     15328 366c -
+     16348 2954 -
+     14200 3ec8 712
+     15656 3b04 713
+     15904 35ec -
+     13896 3cdc -
+     13844 3df8 -
+     15896 3c70 -
+     16092 3e14 718
+     15856 3f9c 719
+     16108 3094 -
+     16308 350c 721
+      9264 35d0 -
+     13760 3d08 723
+     13488 2f68 -
+     15476 39dc -
+     15812 1734 -
+      6588 3570 -
+     13748 3dcc 728
+     15748 2ebc 729
+     14300 3e94 -
+     14824 2d68 -
+     16592 40d4 -
+     16932 4228 -
+     17280 4384 -
+     14840 3114 -
+     16368 394c -
+     16840 41cc 737
+     14956 40b0 738
+     16588 3f70 739
+     16988 3af4 -
+     10316 3cd0 -
+     17072 43b4 -
+     17192 4054 -
+     15716 41b0 -
+     14724 4074 -
+     17184 3990 -
+     11716 4354 -
+     14980 42b4 -
+      5160 3e00 749
+     16928 353c 750
+     12916 3914 751
+     16048 435c -
+     16832 26bc 753
+     12652 34bc -
+     15928 3d1c -
+     17316 4138 756
+     12868 3a44 757
+     17124 367c -
+     16476 2de0 -
+     15348 3c78 760
+     16676 3c30 761
+     14260 3630 -
+Cleaned out 124 stale readers
+Refreshing native plugins compatible for Editor in 3739.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.5f1 (4ec9a5e799f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Home/Desktop/Gabriel/Github/RPG-Game/WorldUzRPG/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     128 MB
+    Driver:   8.15.10.2900

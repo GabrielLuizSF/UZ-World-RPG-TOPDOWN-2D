@@ -1,0 +1,178 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.5f1 (4ec9a5e799f5) revision 5163429'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'pt' Physical Memory: 3893 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker463
+-projectPath
+C:/Users/Home/Desktop/Gabriel/Github/RPG-Game/WorldUzRPG
+-logFile
+Logs/AssetImportWorker463.log
+-srvPort
+61679
+Successfully changed project path to: C:/Users/Home/Desktop/Gabriel/Github/RPG-Game/WorldUzRPG
+C:/Users/Home/Desktop/Gabriel/Github/RPG-Game/WorldUzRPG
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+      1376 1844 -
+      1376 d94 -
+     12328 2d08 -
+     10640 2f90 -
+     11988 30dc -
+     12800 320c -
+     12316 3010 -
+     12928 1e94 -
+     12296 26f8 -
+      2548 300c -
+     12480 16c4 -
+      5632 32d4 -
+     12340 334c -
+     12400 1770 -
+     12188 2d60 -
+     12320 2d14 -
+     12804 2e50 -
+     13300 2f24 -
+     12736 2e30 -
+     13140 339c 7245
+     11836 2da8 -
+      6752 33b8 7248
+     12072 efc -
+     13296 30c8 7250
+     12748 3098 -
+     12208 33a8 -
+     12536 31d0 7253
+     12404 2d6c -
+     12796 241c -
+        32 324c 7256
+     12888 326c 7257
+     12672 3364 7258
+     11504 269c -
+       532 2618 -
+     12664 31e0 -
+      4264 2dfc -
+     10172 310c -
+     13172 2f1c 7264
+      9712 2f78 -
+     12560 3088 7266
+     12760 3140 -
+     12240 2e24 7268
+     12968 2e98 -
+     12724 2fdc -
+     11188 31e4 7271
+     11872 2c18 -
+     11428 2ef8 -
+     12744 3038 -
+     13004 258c -
+     13148 2e28 -
+     12900 2c78 7278
+     12936 1480 -
+     12336 2a70 -
+     13216 3190 -
+     13092 4b4 -
+     12576 2ee8 -
+     11692 2cd8 -
+      8584 3328 -
+     12640 328c -
+     13072 2f80 7287
+     13104 2e10 -
+     12996 3024 -
+     11164 3164 -
+      6272 2f44 7291
+     11468 2478 -
+      8528 31b0 7293
+      7228 3394 -
+     13244 3148 -
+     10672 3250 -
+     13524 34d8 -
+     13856 3624 -
+     13388 3450 7299
+     12884 3770 -
+     13972 356c -
+     14148 346c -
+     13572 3518 -
+      9844 2d10 -
+     14060 35a0 7305
+     14216 3318 -
+     13800 3184 -
+     14212 3484 7308
+     12128 750 -
+     10708 31bc -
+     13316 35b8 -
+     14272 3588 -
+     13464 34e4 -
+     13664 1a14 -
+     13968 3520 -
+     12924 176c -
+     14028 3748 -
+     13332 3684 -
+     13344 2ecc -
+     14012 35d8 -
+     14016 37ac -
+     13720 34d0 -
+     13692 3768 -
+     13564 30f0 -
+      9280 3334 -
+     13352 30fc -
+     13736 32a4 -
+     13328 3738 -
+     11732 365c -
+     13828 332c -
+     13756 3640 -
+     11728 329c -
+     12828 3440 7335
+     12808 3500 -
+     13700 2cc8 -
+     13560 2b2c -
+     11320 3700 -
+     12468 3548 -
+     11556 35f8 -
+     13076 3530 -
+     14788 39c8 -
+     15136 3b24 -
+     14168 16c0 -
+     14020 380c -
+     14540 38c4 -
+     15228 3494 7348
+     14260 3630 -
+     10364 37d8 -
+     14576 3774 -
+      4588 37b8 -
+     14332 3bfc -
+     15324 3528 -
+     14708 34b4 -
+Cleaned out 124 stale readers
